@@ -1,0 +1,47 @@
+body {
+    font-family: Monaco, "Courier New", monospace;
+    background-color: white;
+}
+
+.recipe {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 5px;
+    background-color: antiquewhite;
+}
+
+.description {
+    text-align: center;
+}
+
+.ingredients {
+    margin: 0 100px;
+    padding: 0 2px;
+    background-color: white;
+}
+
+.steps {
+    margin: 0 2px;
+    padding: 0 100px;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+h5 {
+    text-align: center;
+    font-size: 14px;
+}
+
+p {
+    font-size: 18px;
+}
+
+a {
+    color: black;
+}

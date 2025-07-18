@@ -1,0 +1,23 @@
+body {
+    font-family: Monaco, "Courier New", monospace;
+}
+
+#recipe-list {
+    max-width: 500px;
+    margin: auto;
+    background-color: antiquewhite;
+    padding: 5px;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.list {
+    padding: 1px 100px;
+}
+a {
+    color: black;
+}
